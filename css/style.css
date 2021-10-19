@@ -1,0 +1,101 @@
+.navbar {
+    background-color: #2B2E4A !important;
+}
+
+.navbar-brand span {
+    color: #E84545;
+}
+
+.nav-item .send-email {
+    color: #E84545 !important;
+}
+
+.nav-item .send-email:hover {
+    color: #fff !important;
+}
+
+a.active {
+    color: #E84545 !important;
+    font-weight: bold;
+}
+
+a.nav-link:hover {
+    color: #fff !important;
+}
+
+
+section.hero {
+    padding-top: 7rem;
+}
+
+.hero{
+    background-color: #2B2E4A !important;
+    
+}
+
+.jumbotron {
+    padding-top: 4rem;
+  }
+
+  .display-4, .lead, .desc{
+      color: #fff;
+  }
+
+  .desc {
+      padding-bottom: 10px;
+  }
+
+  .display-4 span {
+      color: #E84545;
+  }
+
+  hr.my-4.heroHR {
+    border-top: 1px solid #fff !important;
+  }
+
+  .socialmedia-card:hover {
+      width: 55px !important;
+  }
+
+  .emailme a {
+      width: 18rem;
+      margin-top: 3px;
+      background-color: #fff;
+      padding: 8px 0px 6px 0px;
+      border-radius: 18px;
+      font-weight: bold;
+      text-decoration: none;
+      color: #2B2E4A;
+      font-size: 16px;
+      text-align: center;
+  }
+
+  .emailme a:hover {
+      color: #E84545;
+  }
+
+
+
+  section.about {
+    padding-top: 6rem;
+  }
+
+  hr.my-4.aboutHR {
+    border-top: 1px solid #00000059 !important;
+  }
+
+  .about .aboutDesc {
+      margin-top: 30px;
+  }
+
+  .about h1 {
+  color:#2B2E4A ;
+  }
+
+  .about span {
+    color: #E84545;
+  }
+
+  .about .desc {
+      font-size: 18px;
+  }
